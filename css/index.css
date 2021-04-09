@@ -81,7 +81,7 @@ p {
 
 .top-content .text-container {
     width: 48%;
-    padding: 0 1%;
+    padding: 2% 2%;
     padding-bottom: 20px;  
 }
 
@@ -144,3 +144,182 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.top-portion{
+    display: flex;
+}
+
+nav{
+    font-family: 'Roboto Mono', monospace;
+    display:flex;
+    justify-content: flex-end;
+    width:80%;
+    margin 10px;
+    padding: 20px;
+}
+
+nav a{
+    display:flex;
+    text-decoration: none;
+    width:30%;
+    height: 60%;
+    justify-content:center;
+    align-items: center;
+    padding:5px;
+    margin: 15px;
+    color: black;
+}
+
+.logo{
+    padding:20px 0;
+}
+
+.boxes-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    background: teal;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box2{
+    background: gold;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box3{
+    background: cadetblue;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box4{
+    background: coral;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box5{
+    background: crimson;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box6{
+    background: forestgreen;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box7{
+    background: darkorchid;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box8{
+    background: hotpink;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box9{
+    background: indigo;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.box10{
+    background: dodgerblue;
+    color: white;
+    height: 100px;
+    width:100px;
+    margin: 30px;
+    padding: 42px 30px;
+    font-size: small;
+}
+
+.about{
+    width: 100%;
+    padding: 3% 3%;
+    padding-bottom: 20px;  
+    border-bottom: 1px dashed black;
+}
+
+.button{
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 120px;
+    height: 50px;
+    font-size: large;
+
+}
+
+.strategy-hww{
+    padding-top: 20px;
+    display: flex;
+
+}
+
+.top-container{
+    display:flex;
+   justify-content: space-around;
+
+ }
+
+ .bottom-container{
+    display:flex;
+   justify-content: space-around;
+ }
+
+ .info{
+   width:400px;
+   border-bottom: 1px dashed black;
+   padding: 30px;
+ }
+
+ .bottom-together{
+    width: 100%;
+    padding: 3% 3%;
+    padding-bottom: 20px; 
+ }
